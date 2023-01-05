@@ -12,14 +12,9 @@ Segue a lista abaixo com as tecnologias que deverão ser usadas:
 * CSS;
 * JAVASCRIPT.
 
-**Essa parte é requisito para as últimas questões**
-
-* NodeJs;
-* Qualquer banco de dados estruturado (postgres, mySQL, entre outros).
-
 **Conhecimento sobre *Design UX/UI***
 
-* Pototipação com a ferramenta Figma.
+* Prototipação com a ferramenta Figma.
 
 ## Instruções para realização do exame
 
@@ -34,7 +29,6 @@ Segue a lista abaixo com as tecnologias que deverão ser usadas:
 * Conhecimento em lógica de programação e algoritmos;
 * Habilidades em estilização de páginas com CSS;
 * Utilização do Git/Github;
-* Banco de dados;
 * Habilidade e conhecimento em prototipação (Figma);
 * **Boas Práticas.**
 
